@@ -2,7 +2,7 @@ package com.atguigu.search;
 
 /**
  * 1.线性查找
- *
+ *  线性查找就是逐一比对，暴力遍历
  */
 public class SeqSearch {
     public static void main(String[] args) {
